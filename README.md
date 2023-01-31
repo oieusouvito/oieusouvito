@@ -3,5 +3,5 @@
 - 🔭 Hoje estou trabalhando como estagiario de desenvolvimento na Caixa econômica 
 - 🌱 Estou aprendendo java
 - 😄 Pronomes: Ele/dele
-- ⚡ Fun fact: Só descobri que eu amava programação depois de terminar o ensino médio.
+- ⚡ Fun fact: Só descobri que amava programação depois de terminar o ensino médio.
 
